@@ -1,0 +1,7 @@
+How to create a virtual enviroment:
+	$python3 -m pip install --user -U virtualenv
+	$virtualenv env #env is just the name of the enviroment you will create. You could replace it with any word you want to.
+To activate Virtual env:
+	$ source env/bin/activate
+To deactivate Virtual env:
+	$ deactivate
